@@ -1,4 +1,4 @@
-# 🏨 IMAN CRUD App: Java GUI Hotel Booking System 🌟
+# 🏨 IMAN CRUD App: Java GUI Hotel Booking System
 
 This repository contains a Java GUI application for hotel room booking and management, developed as a final requirement for the Information Management (IMAN) subject. It showcases the implementation of a Create, Read, Update, Delete (CRUD) system using Java Swing, SQL, and the H2 embedded database. I only had two days to finish the application, and this included learning the tooling behind the NetBeans editor to create a GUI as well as finding an embedded database and learning how to connect to it. As such the application is quite rough on the edges. Nonetheless, it was still a great learning experience.
 
