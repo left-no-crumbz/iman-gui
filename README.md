@@ -60,10 +60,6 @@ Upon launching the application, you'll be presented with the main window contain
 - Make new reservations by providing the required details, such as check-in/check-out dates, room selection, and mode of payment.
 - Edit or cancel existing reservations by searching for the reservation ID and modifying the relevant fields.
 
-## 🤝 Contributing
-
-Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
 ## 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
