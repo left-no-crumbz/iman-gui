@@ -1,0 +1,1 @@
+To run this app, at least JDK 21 is needed. If there is already a JDK installed in the system that is < JDK21, please delete it and install JDK 21. https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe 

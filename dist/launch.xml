@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Crumbz\Desktop\Coding\Java\CRUDApp\dist\CRUDApp.jar</jar>
+  <outfile>C:\Users\Crumbz\Desktop\Coding\Java\CRUDApp\dist\CRUDApp.exe</outfile>
+  <errTitle>To run this app, at least JDK 21 is needed. If there is already a JDK that is &lt; 21, please delete it and install JDK 21. </errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe</downloadUrl>
+  <supportUrl>https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe</supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <singleInstance>
+    <mutexName>CRUDApp</mutexName>
+    <windowTitle>CRUDApp</windowTitle>
+  </singleInstance>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0.0</txtFileVersion>
+    <fileDescription>A CRUDApp for IMAN</fileDescription>
+    <copyright>MIT</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>CRUDApp</productName>
+    <companyName>crumbz.dev</companyName>
+    <internalName>CRUDApp</internalName>
+    <originalFilename>CRUDApp.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+  <messages>
+    <startupErr>An error occurred while starting the application.</startupErr>
+    <jreNotFoundErr>This application requires a Java Runtime Environment. To run this app, at least JDK 21 is needed. If there is already a JDK installed in the system that is &lt; JDK21, please delete it and install JDK 21. https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe </jreNotFoundErr>
+    <jreVersionErr>To run this app, at least JDK 21 is needed. If there is already a JDK installed in the system that is &lt; JDK21, please delete it and install JDK 21. https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe </jreVersionErr>
+    <launcherErr>The registry refers to a nonexistent Java Runtime Environment installation or the runtime is corrupted.</launcherErr>
+    <instanceAlreadyExistsMsg>An application instance is already running.</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>
