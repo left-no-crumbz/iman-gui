@@ -38,7 +38,8 @@ To run the IMAN CRUD App locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/left-no-crumbz/iman-gui.git)`
 2. Open the project in your preferred Java IDE (e.g., NetBeans, IntelliJ IDEA).
-3. Build and run the `Main` class.
+3. Build and run the `Main.java` file under the `src/main` folder.
+4. Alternatively, run the `iman-gui.jar` under the `dist` folder to run the application.
 
 ## 🛠️ Usage
 
